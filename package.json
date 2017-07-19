@@ -1,0 +1,10 @@
+{
+  "name": "basicchain",
+  "version": "1.0.0",
+  "description": "This is a very basic implementation of blockchain",
+  "scripts": {
+    "start": "node main.java"
+  },
+  "dependencies": {
+  },
+}
